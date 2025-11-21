@@ -1,1 +1,1 @@
-# Week-6-Assignment-Bootstrap-GitHub-Pages
+This project is to demonstrate how to use the bootstrap method for designing a web page, this assignment is for COMP-001B-L01.     
